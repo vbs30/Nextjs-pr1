@@ -26,7 +26,9 @@ Acerternity UI is a UI library that provides a set of customizable components to
 
 ## 🌐 Landing Page Preview 🌐
 
-![Landing Page Image](path/to/your/image.png)
+![Landing Page Image](https://github.com/user-attachments/assets/16e0a3b2-8f2a-4c73-933f-f3f331b9f82e)
+<br><br><br>
+![Landing Page Features](https://github.com/user-attachments/assets/58a9a5d7-94ed-44c4-b71b-ba513c2bb271)
 
 ## 🚀 Getting Started 🚀
 
