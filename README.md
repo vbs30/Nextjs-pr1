@@ -35,8 +35,8 @@ Acerternity UI is a UI library that provides a set of customizable components to
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/landing-page-project.git
-cd landing-page-project
+https://github.com/vbs30/Nextjs-pr1.git
+cd Nextjs-pr1
 npm install
 ```
 
